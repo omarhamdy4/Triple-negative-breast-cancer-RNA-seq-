@@ -1,4 +1,5 @@
 # RNA-Seq Primary Analysis Pipeline
+
 ***
 ![RNA-seq Primary Analysis Pipeline pipeline template](https://github.com/user-attachments/assets/5172d0b1-9763-4598-bfe0-7865d79c9bf2)
 ***
@@ -78,6 +79,9 @@ cut -f 1 "$first_sample" > "$output_file"
 for file in *_folder/abundance.tsv; do
 sample=$(basename $(dirname "$file"))                   # Extract Sample Name
 cut -f 4 "$file" > tmp_counts.tsv                       # Extract Count Column from Each File
+
+![image](https://github.com/user-attachments/assets/db7eb53c-0d72-4db7-9847-c31a53f7b6c8)
+
 paste "$output_file" tmp_counts.tsv > tmp_merged.tsv    # Merge This Sample's Counts with the Main File
 mv tmp_merged.tsv ./"$output_file";
 done
