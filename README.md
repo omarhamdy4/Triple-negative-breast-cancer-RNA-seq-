@@ -1,8 +1,9 @@
 # Triple-negative-breast-cancer-RNA-seq
-### The analyzed data here were retrieved from SRA
->{Accession}:	PRJNA721450; GEO: GSE171957                                                      
->{Data Type}:	Transcriptome or Gene expression
-
+### The analyzed data were retrieved from SRA
+>{Accession}:	    PRJNA721450; GEO: GSE171957                                                      
+>{Data Type}:	    Transcriptome or Gene expression
+>{Organism}:	    Homo sapiens
+>{Publications}:	Chappell K et al., "Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer.", Mol Omics, 2021 Oct 11;17(5):677-691
 ### In this repository, 
 ***
 ### _PART A_ 
@@ -19,4 +20,5 @@
     .
 ***
 ### _PART B_
->#### *Downstream analysis of the processed mRNA data
+>#### *Downstream analysis of the processed mRNA data using DEseq2
+
