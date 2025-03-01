@@ -5,8 +5,6 @@
 >{Organism}:	    Homo sapiens
 >{Publications}:	Chappell K et al., "Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer.", Mol Omics, 2021 Oct 11;17(5):677-691
 ### In this repository, 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ***
 ### ✨ _PART A_ 
@@ -25,3 +23,6 @@
 ### ✨ _PART B_
 >#### Downstream analysis of the processed mRNA data using DEseq2
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
