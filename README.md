@@ -6,8 +6,8 @@
 >{Publications}:	Chappell K et al., "Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer.", Mol Omics, 2021 Oct 11;17(5):677-691
 ### In this repository, 
 ***
-### _PART A_ 
->#### ✨ Upstream analysis, where there will be 2 pipelines for the processing of the TNBC data, in which two different alignment methods will be utilized 
+### ✨_PART A_ 
+>#### Upstream analysis, where there will be 2 pipelines for the processing of the TNBC data, in which two different alignment methods will be utilized 
   #### A- Kallisto pseudo-alignment
     .
     .
@@ -19,6 +19,6 @@
     .
     .
 ***
-### _PART B_
->#### ✨ Downstream analysis of the processed mRNA data using DEseq2
+### ✨_PART B_
+>#### Downstream analysis of the processed mRNA data using DEseq2
 
