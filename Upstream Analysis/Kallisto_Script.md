@@ -80,10 +80,11 @@ for file in *_folder/abundance.tsv; do
 sample=$(basename $(dirname "$file"))                   # Extract Sample Name
 cut -f 4 "$file" > tmp_counts.tsv                       # Extract Count Column from Each File
 
-![image](https://github.com/user-attachments/assets/8e817092-a330-4cdd-9333-1a02b74d3750)
 
 paste "$output_file" tmp_counts.tsv > tmp_merged.tsv    # Merge This Sample's Counts with the Main File
 mv tmp_merged.tsv ./"$output_file";
 done
 rm tmp_counts.tsv                                       # Clean Up Temporary File
 echo "✅ Merged counts saved in $output_file"
+```
+![image](https://github.com/user-attachments/assets/9820c662-35cb-49a1-aea6-9169d9e37576)
