@@ -87,4 +87,4 @@ done
 rm tmp_counts.tsv                                       # Clean Up Temporary File
 echo "✅ Merged counts saved in $output_file"
 ```
-![image](https://github.com/user-attachments/assets/9820c662-35cb-49a1-aea6-9169d9e37576)
+![Alt Text](https://github.com/user-attachments/assets/9820c662-35cb-49a1-aea6-9169d9e37576)
