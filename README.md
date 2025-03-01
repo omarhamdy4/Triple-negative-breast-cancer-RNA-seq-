@@ -5,6 +5,9 @@
 >{Organism}:	    Homo sapiens
 >{Publications}:	Chappell K et al., "Multi-omics data integration reveals correlated regulatory features of triple negative breast cancer.", Mol Omics, 2021 Oct 11;17(5):677-691
 ### In this repository, 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ***
 ### ✨ _PART A_ 
 >#### Upstream analysis, where there will be 2 pipelines for the processing of the TNBC data, in which two different alignment methods will be utilized 
