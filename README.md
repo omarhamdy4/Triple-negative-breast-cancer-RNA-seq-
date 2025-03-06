@@ -8,17 +8,7 @@
 
 ***
 ### ✨ _PART A_ 
->#### Upstream analysis, where there will be 2 pipelines for the processing of the TNBC data, in which two different alignment methods will be utilized 
-  #### A- Kallisto pseudo-alignment
-    .
-    .
-    .
-    .
-  #### B- Hisat2 alignment
-    .
-    .
-    .
-    .
+>#### Upstream analysis, where there will be a pipeline for the processing of the TNBC data, in which Kallisto pseudo-alignment method will be utilized 
 ***
 ### ✨ _PART B_
 >#### Downstream analysis of the processed mRNA data using DEseq2
