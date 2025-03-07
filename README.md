@@ -14,6 +14,6 @@
 >#### Downstream analysis of the processed mRNA data using DEseq2
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/61277866-a453-4f65-9c29-20ff9a8bd4e2)
-" height="220" alt="streak graph"  />
+  <![image](https://github.com/user-attachments/assets/8320e957-71c4-42d2-ab6d-205c01c2ced9)
+"  />
 </div>
