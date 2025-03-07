@@ -2,7 +2,7 @@
 ***
 >#### This notebook demonstrates a step-by-step workflow for analyzing RNA-seq data using DESeq2. The analysis includes preprocessing the expression matrix, handling metadata, identifying differentially expressed genes (DEGs), and Plotting important figures such as volcano plots, Heatmap, and PCA.
 ## The Workflow goes as follow:
-![image](https://github.com/user-attachments/assets/2960e28c-1fac-4f62-b704-445d1c57e353)
+![Downstream v2](https://github.com/user-attachments/assets/95bff580-b610-44a5-9b61-c0ce52823371)
 ***
 ## 1- Loading libraries
 ```{r}
