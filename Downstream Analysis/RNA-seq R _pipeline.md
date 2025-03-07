@@ -281,7 +281,7 @@ res_df <- res.df
         geom_text_repel(label=res_df$delabel,max.overlaps = Inf)+ # To show all labels 
         geom_text_repel(label=res_df$delabel2,max.overlaps = Inf)
 ```
-###    (a) Heatmap for top 100 DEGs
+###    (a) Heatmap for DEGs
 ```{r Heatmap}
    meta.sorted=meta[order(meta$Run), ]
     sam_condition <- meta.sorted$Condition
