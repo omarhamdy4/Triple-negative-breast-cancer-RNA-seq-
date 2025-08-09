@@ -11,7 +11,7 @@
 >#### Upstream analysis, where there will be a pipeline for the processing of the TNBC data, in which Kallisto pseudo-alignment method will be utilized 
 ***
 ### ✨ _PART B_
->#### Downstream analysis of the processed mRNA data using DEseq2
+>#### Downstream analysis of the processed mRNA data using DEseq2 and subsequent processing
 
 <div align="center">
   <![image](https://github.com/user-attachments/assets/8320e957-71c4-42d2-ab6d-205c01c2ced9)
